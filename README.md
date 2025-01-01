@@ -28,6 +28,7 @@ Component versions:
 
 This tutorial requires four (4) ARM64 based virtual or physical machines connected to the same network. While ARM64 based machines are used for the tutorial, the lessons learned can be applied to other platforms.
 
+* [EasyVMsetup](docs/00-easyvmsetup.md)
 * [Prerequisites](docs/01-prerequisites.md)
 * [Setting up the Jumpbox](docs/02-jumpbox.md)
 * [Provisioning Compute Resources](docs/03-compute-resources.md)
