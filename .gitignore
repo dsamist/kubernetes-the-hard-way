@@ -49,5 +49,9 @@ service-account.pem
 service-account-csr.json
 *.swp
 .idea/
+*.crt
+*.key
+*.csr
+*.kubeconfig
 
 .codegpt
